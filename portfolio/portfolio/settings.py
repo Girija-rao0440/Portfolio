@@ -26,7 +26,7 @@ SECRET_KEY = '0o877c4j-y#m%)2uz_=*uyk#)pvsfq*oyi0*hd4=wd53(cb+z#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1',]
+ALLOWED_HOSTS = ['127.0.0.1','portfolio-girija.herokuapp.com']
 
 
 # Application definition
